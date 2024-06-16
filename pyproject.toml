@@ -1,0 +1,27 @@
+[tool.poetry]
+name = "apre-aut-ceiot"
+version = "0.1.0"
+description = ""
+authors = ["Facundo Adrián Lucianna <facundolucianna@gmail.com>"]
+readme = "README.md"
+package-mode = false
+
+
+[tool.poetry.dependencies]
+python = ">=3.10,<3.12"
+numpy = "^2.0.0"
+pandas = "^2.2.2"
+scipy = "^1.13.1"
+matplotlib = "^3.9.0"
+seaborn = "^0.13.2"
+scikit-learn = "^1.5.0"
+torch = "^2.3.1"
+torchvision = "^0.18.1"
+torchaudio = "^2.3.1"
+xgboost = "^2.0.3"
+jupyter = "^1.0.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

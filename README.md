@@ -1,7 +1,8 @@
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 # Aprendizaje Automático
-Este repositorio contiene el material de clases (presentaciones, ejercicios y notebooks) para Aprendizaje Automático (CEIoT - FIUBA). 
+Este repositorio contiene el material de clases (presentaciones, ejercicios y notebooks) para Aprendizaje Automático 
+(CEIoT - FIUBA). 
 
 Para revisar los criterios de aprobación, ver el [documento correspondiente](CriteriosAprobacion.md).
 
@@ -17,16 +18,16 @@ Para revisar los criterios de aprobación, ver el [documento correspondiente](Cr
 
 ### Requerimientos
 * Lenguaje de Programación
-    * Python >=3.8
-    * Pip / Conda para instalar librerías
+    * Python >=3.10
+    * Poetry / Pip / Conda para instalar librerías
 * Librerías
-    * Numpy
+    * Numpy, Pandas, SciPy
+    * Matplotlib, Seaborn
+    * Jupyter
 	* Pandas
 	* Scikit-Learn
-    * SciPy
-    * Tensorflow
-    * Matplotlib
-    * Seaborn
+    * PyTorch
+    * XGBoost
 * Consola Interactiva de Python 
     * IPython
 * Herramientas
@@ -36,6 +37,10 @@ Para revisar los criterios de aprobación, ver el [documento correspondiente](Cr
     * Visual Studio Code
     * PyCharm Community Edition    
 
+#### Poetry
+Este repositorio contiene un archivo `pyproject.toml` para instalar las dependencias usando 
+[Poetry](https://python-poetry.org/)
+
 ## Contenido
 
 ### [Clase 1](clase1/README.md) 
@@ -43,60 +48,8 @@ Para revisar los criterios de aprobación, ver el [documento correspondiente](Cr
 * Introducción a Machine Learning
 * Python
 
-### [Clase 2](clase2/README.md) 
-* Aprendizaje supervisado
-* Conceptos de Regresión
-* Regresión lineal simple y múltiple
-* Regresión polinómica
-* Métodos de evaluación de regresiones
-* Variables dummy
-* Construcción de modelos
-
-### [Clase 3](clase3/README.md) 
-
-* Conceptos de clasificación
-* Regresión logistica simple y múltiple
-* Regresión logistica multi-clase
-* Métodos de evaluación de clasificación
-* Clasificador KNN
-* Curva ROC
-
-### [Clase 4](clase4/README.md)
-
-* Conjunto de validación
-* Validación cruzada
-* Arboles de decisión
-    * Arboles de regresión
-    * Arboles de clasificación
-* Bagging, arboles aleatorios y Boosting
-
-### [Clase 5](clase5/README.md)
-
-* Método de ajuste de hiperparametros
-* Support Vector Machines
-    * Maximal Margin Classifier
-    * Clasificador de vector de soportes
-    * Máquina de vector de soportes como clasificador
-    * Máquina de vector de soportes como regresión
-
-### [Clase 6](clase6/README.md)
-
-* Redes Neuronales
-* Breve historia
-* Perceptrones y neuronas sigmoideas
-* Redes Feed-Foward
-* Breve introducción de entrenamiento
-* TensorFlow
-
-### [Clase 7](clase7/README.md)
-* Aprendizaje no supervisado
-* Métodos de clustering
-* K-Means
-* Suma de Cuadrados Intracluster
-* Hierarchical Clustering
-
-
 ## Bibliografia
+- [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) - Jake VanderPlas 
 - Practical Statistics for Data Scientists: 50+ Essential Concepts Using R and Python - Peter Bruce (Ed. O’Reilly)
 - An Introduction to Statistical Learning - Gareth James (Ed. Springer)
 - The Elements of Statistical Learning - Trevor Hastie (Ed. Springer)
@@ -107,7 +60,6 @@ Para revisar los criterios de aprobación, ver el [documento correspondiente](Cr
 - Pattern Recognition And Machine Learning - Christopher Bishop (Ed. Springer)
 - [Deep Learning](https://www.deeplearningbook.org/) - Ian Goodfellow 
 
-Se recomiendan principalmente los dos primeros libros de esta lista.
 ---
 Esta obra está bajo una
 [Licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional][cc-by-nc-sa].
