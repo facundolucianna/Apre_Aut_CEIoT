@@ -235,3 +235,4 @@ fabric.properties
 .DS_Store
 .obsidian/
 ~*.*
+poetry.lock
