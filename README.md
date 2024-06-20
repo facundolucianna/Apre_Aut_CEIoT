@@ -48,6 +48,11 @@ Este repositorio contiene un archivo `pyproject.toml` para instalar las dependen
 * Introducción a Machine Learning
 * Python
 
+### [Clase 2](clase2/README.md)
+* Programando en Python
+* Jupyter Notebook
+* Numpy y Matplotlib
+
 ## Bibliografia
 - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) - Jake VanderPlas 
 - Practical Statistics for Data Scientists: 50+ Essential Concepts Using R and Python - Peter Bruce (Ed. O’Reilly)

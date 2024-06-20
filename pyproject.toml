@@ -20,6 +20,7 @@ torchvision = "^0.18.1"
 torchaudio = "^2.3.1"
 xgboost = "^2.0.3"
 jupyter = "^1.0.0"
+pyarrow = "^16.1.0"
 
 
 [build-system]
