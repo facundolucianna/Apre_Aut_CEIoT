@@ -53,6 +53,11 @@ Este repositorio contiene un archivo `pyproject.toml` para instalar las dependen
 * Jupyter Notebook
 * Numpy y Matplotlib
 
+### [Clase 3](clase3/README.md)
+* Manejo de datos con Pandas
+* Operando con Pandas
+* Graficando con Matplotlib y Seaborn
+
 ## Bibliografia
 - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) - Jake VanderPlas 
 - Practical Statistics for Data Scientists: 50+ Essential Concepts Using R and Python - Peter Bruce (Ed. O’Reilly)
