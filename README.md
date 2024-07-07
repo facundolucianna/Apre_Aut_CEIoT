@@ -56,10 +56,15 @@ Este repositorio contiene un archivo `pyproject.toml` para instalar las dependen
 * Operando con Pandas
 * Graficando con Matplotlib y Seaborn
 
+### [Clase 4](clase4/README.md)
+* Conceptos de Regresión
+* Regresión lineal simple y múltiple
+* Regresión Ridge y Lasso
+
 ## Bibliografia
 - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) - Jake VanderPlas 
+- [An Introduction to Statistical Learning](https://www.statlearning.com/) - Gareth James (Ed. Springer)
 - Practical Statistics for Data Scientists: 50+ Essential Concepts Using R and Python - Peter Bruce (Ed. O’Reilly)
-- An Introduction to Statistical Learning - Gareth James (Ed. Springer)
 - The Elements of Statistical Learning - Trevor Hastie (Ed. Springer)
 - Data Science from Scratch First Principles with Python - Joel Gru (Ed. O’Reilly)
 - Artificial Intelligence for Humans, Volume 1 Fundamental Algorithms - Jeff Heaton (Ed. Heaton Research) 
