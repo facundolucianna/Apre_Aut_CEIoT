@@ -46,15 +46,13 @@ Este repositorio contiene un archivo `pyproject.toml` para instalar las dependen
 ### [Clase 1](clase1/README.md) 
 * Introducción a la Materia
 * Introducción a Machine Learning
-* Python
 
 ### [Clase 2](clase2/README.md)
 * Programando en Python
 * Jupyter Notebook
-* Numpy y Matplotlib
 
 ### [Clase 3](clase3/README.md)
-* Manejo de datos con Pandas
+* Manejo de datos con Numpy y Pandas
 * Operando con Pandas
 * Graficando con Matplotlib y Seaborn
 

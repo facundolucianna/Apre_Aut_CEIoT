@@ -9,4 +9,3 @@
 * Declaración de control y bucles
 * Estructuras de datos nativas
 * Jupyter Notebook
-* Numpy
