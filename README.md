@@ -61,6 +61,16 @@ Este repositorio contiene un archivo `pyproject.toml` para instalar las dependen
 * Regresión lineal simple y múltiple
 * Regresión Ridge y Lasso
 
+### [Clase 5](clase5/README.md)
+* Conceptos de clasificación
+* Clasificador KNN
+* Regresión logística 
+
+### [Clase 6](clase6/README.md)
+* Support Vector Machines
+* Máquina de vector de soportes como clasificador
+* Máquina de vector de soportes como regresión
+
 ## Bibliografia
 - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) - Jake VanderPlas 
 - [An Introduction to Statistical Learning](https://www.statlearning.com/) - Gareth James (Ed. Springer)
