@@ -71,6 +71,10 @@ Este repositorio contiene un archivo `pyproject.toml` para instalar las dependen
 * Máquina de vector de soportes como clasificador
 * Máquina de vector de soportes como regresión
 
+### [Clase 7](clase7/README.md)
+* Árboles de decisión
+* Bagging, arboles aleatorios y Boosting
+
 ## Bibliografia
 - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) - Jake VanderPlas 
 - [An Introduction to Statistical Learning](https://www.statlearning.com/) - Gareth James (Ed. Springer)
