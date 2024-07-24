@@ -75,7 +75,12 @@ Este repositorio contiene un archivo `pyproject.toml` para instalar las dependen
 * Árboles de decisión
 * Bagging, arboles aleatorios y Boosting
 
-## Bibliografia
+### [Clase 8](clase8/README.md)
+* Redes Neuronales
+* Perceptrones y neuronas sigmoideas
+* Redes Feed-Forward
+
+## Bibliografiax
 - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) - Jake VanderPlas 
 - [An Introduction to Statistical Learning](https://www.statlearning.com/) - Gareth James (Ed. Springer)
 - Practical Statistics for Data Scientists: 50+ Essential Concepts Using R and Python - Peter Bruce (Ed. O’Reilly)
