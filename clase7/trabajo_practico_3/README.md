@@ -40,5 +40,5 @@ los autores del TP en el entregable**.
 ### Enlace al formulario de Google para la entrega del TP3:
 
 El informe debe enviarse mediante el siguiente formulario: 
-[https://forms.gle/UNY3wk7axqBFvaGA9](https://forms.gle/UNY3wk7axqBFvaGA9). La fecha límite de entrega es el 18/08/2024 
+[https://forms.gle/UNY3wk7axqBFvaGA9](https://forms.gle/UNY3wk7axqBFvaGA9). La fecha límite de entrega es el 25/08/2024 
 a las 23:59.

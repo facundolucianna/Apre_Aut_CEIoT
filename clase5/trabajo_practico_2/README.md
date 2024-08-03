@@ -44,5 +44,5 @@ los autores del TP en el entregable**.
 ### Enlace al formulario de Google para la entrega del TP2:
 
 El informe debe enviarse mediante el siguiente formulario: 
-[https://forms.gle/NfRwRgXxD382YicP6](https://forms.gle/NfRwRgXxD382YicP6). La fecha límite de entrega es el 11/08/2024 
+[https://forms.gle/NfRwRgXxD382YicP6](https://forms.gle/NfRwRgXxD382YicP6). La fecha límite de entrega es el 18/08/2024 
 a las 23:59.
