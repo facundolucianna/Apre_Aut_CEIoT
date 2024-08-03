@@ -27,7 +27,7 @@ Para revisar los criterios de aprobación, ver el [documento correspondiente](Cr
 	* Pandas
 	* Scikit-Learn
     * PyTorch
-    * XGBoost
+    * CatBoost
 * Consola Interactiva de Python 
     * IPython
 * Herramientas

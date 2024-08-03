@@ -15,7 +15,7 @@ clases 6 y 7:
 - SVC
 - Árbol de clasificación
 - Bosques aleatorios
-- XGBoost
+- CatBoost
 
 1. Evalúe el modelo con las métricas definidas. 
 2. Discuta las fortalezas y debilidades del modelo elegido en el contexto específico de este problema.
