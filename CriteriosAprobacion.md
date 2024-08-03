@@ -26,3 +26,7 @@ Los criterios de aprobación son los siguientes:
 9. Todo trabajo práctico desaprobado se debe corregir obligatoriamente. 
 10. Un trabajo práctico no entregado en fecha se considera desaprobado.
 11. La nota final es la mediana de las notas de los TPs.
+
+Las correcciones de los TPs debe enviarse mediante el siguiente formulario: 
+[https://forms.gle/NjS1fdBKgvrAfUCU6](https://forms.gle/NjS1fdBKgvrAfUCU6). La fecha límite de entrega es el 01/09/2024 a 
+las 23:59.

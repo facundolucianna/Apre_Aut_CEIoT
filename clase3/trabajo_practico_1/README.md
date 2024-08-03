@@ -89,3 +89,7 @@ respuestas. Pueden subir el contenido o proporcionar un enlace a un repositorio 
 El informe debe enviarse mediante el siguiente formulario: 
 [https://forms.gle/n77poDgHrdthxxyv9](https://forms.gle/n77poDgHrdthxxyv9). La fecha límite de entrega es el 28/07/2024 a 
 las 23:59.
+
+Las correcciones del TP debe enviarse mediante el siguiente formulario: 
+[https://forms.gle/NjS1fdBKgvrAfUCU6](https://forms.gle/NjS1fdBKgvrAfUCU6). La fecha límite de entrega es el 01/09/2024 a 
+las 23:59.

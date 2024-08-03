@@ -42,3 +42,7 @@ los autores del TP en el entregable**.
 El informe debe enviarse mediante el siguiente formulario: 
 [https://forms.gle/UNY3wk7axqBFvaGA9](https://forms.gle/UNY3wk7axqBFvaGA9). La fecha límite de entrega es el 25/08/2024 
 a las 23:59.
+
+Las correcciones del TP debe enviarse mediante el siguiente formulario: 
+[https://forms.gle/NjS1fdBKgvrAfUCU6](https://forms.gle/NjS1fdBKgvrAfUCU6). La fecha límite de entrega es el 01/09/2024 a 
+las 23:59.
